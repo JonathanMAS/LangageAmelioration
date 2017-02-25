@@ -1,0 +1,40 @@
+Objectif de départ
+
+Qu’allons nous créer ?
+
+Le projet part de l’idée qu’on peut créer un logiciel pour améliorer la rédaction de documents. En proposant des outils pour en faciliter la création et la lecture grâce au fond et à la forme du texte. En ça, on pourra appeler le logiciel final “IDE textuel” c’est à dire un environnement de développement textuel. Je nomme ainsi le projet Code::Text (abrégé CT ). 
+A qui s’adresse le produit final ?
+
+Dans l’idéal au plus de personnes possibles puisque l’objectif est de proposer le plus de fonctionnalités possibles autant pour le fond que la forme du texte. 
+
+Qui va créer quoi ?
+
+Mon rôle sera de programmer le logiciel, donc toutes les préoccupations techniques seront à ma charge. Vous pouvez bien sûr aider si vous le désirez, mais ce n’est pas ce pour quoi je vous demande votre aide à l’origine.
+Votre rôle (qui sera aussi le mien) sera de proposer des idées, réfléchir à la pertinence de celles des autres afin de les améliorer si possible. 
+
+Dit, ton idée est sympa mais n’existe t il pas déjà des logiciels comme ça ?
+
+Alors oui, mais non ! Des logiciels de mise en forme de texte certes. Tel que Word, Libre office, Open office, etc. Des logiciels d’aide pour le fond je pense qu’on peut inclure Worklowy. Mais les deux à la fois, pas à ma connaissance. Et pas en aussi exhaustif. 
+Je continue de me renseigner à ce sujet, et si vous avez des informations à ce sujet, n’hésitez pas à m’en faire part.
+
+Qu’y gagne t on ?
+
+S’amuser à réfléchir sur comment améliorer la rédaction et la présentation d’un système d’écriture qui n’as pas tant évolué même après l’ère de l’informatique
+Un logiciel qui pourrait vous servir puisque vous avez participé à sa création
+En théorie, rien de plus puisque je n’ai pas prévu de commercialiser ce logiciel, mais si jamais ça devait arriver vous seriez prévenus. En revanche s’il ne sera pas commercialisé, j’aimerai tout de même le diffuser à titre gratuit. Si les retours sont bon alors on verra.
+Idées de départ
+
+Améliorer la présentation textuelle
+
+Réutiliser les idées de Worflowy avec les liste à puce zoomable
+Permettre de réduire le texte des parenthèses à (...)
+Permettre de réduire les paragraphes en une idée principale
+Permettre d’avoir plusieurs modes de présentation d’idées
+Améliorer la rédaction
+
+Proposer d’associer des paragraphes à des types d’idées
+Proposer de mettre des tags dans des container d’idées pour pouvoir les référencer
+Permettre une naviation dans le document améliorée
+Permettre une selction intelligente et extensible
+Proposer une autocompletion
+ETC ...
